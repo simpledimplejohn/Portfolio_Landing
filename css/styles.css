@@ -2,3 +2,6 @@ img {
   float: left;
   padding: 8px;
 }
+.highlight {
+  color: red;
+}
