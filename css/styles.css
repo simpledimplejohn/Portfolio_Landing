@@ -1,9 +1,10 @@
 .box1 {
   width: 50%;
   margin: 12px;
-  border: 2px solid green;
+  border: 10px solid green;
   padding: 4px;
   background-color: yellow;
+  box-sizing:border-box
 }
 .box2 {
   width: 50%;
@@ -11,4 +12,8 @@
   border: 2px solid red;
   padding: 4px;
   background-color: orange;
+  box-sizing: border-box;
+}
+img {
+  float: left;
 }
