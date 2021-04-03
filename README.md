@@ -26,6 +26,10 @@ _This is a portfolio page with content related to my personal experience coding 
 
 _MIT_
 
+## Github Link
+
+[Github](https://github.com/simpledimplejohn/Portfolio_Landing)
+
 ## Contact Information
 
 _John Blalock simpledimplejohn@gmail.com_
