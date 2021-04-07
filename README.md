@@ -21,6 +21,7 @@ _This is a portfolio page with content related to my personal experience coding 
 ## Known Bugs
 
 * _Image floats within box elements, should be outside of box elements._
+*_Gh-Pages link not working propperly._
 
 ## License
 
