@@ -25,11 +25,11 @@ _This is a portfolio page with content related to my personal experience coding 
 
 ## License
 
-_MIT_
+[MIT](https://opensource.org/licenses/MIT)
 
 ## Github Link
 
-[Github](https://github.com/simpledimplejohn/Portfolio_Landing)
+[Github](https://simpledimplejohn.github.io/Portfolio_Landing/)
 
 ## Contact Information
 
