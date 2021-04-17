@@ -2,6 +2,9 @@
 $(document).ready(function() {
   
   $("button#dark").click(function() {
-    $("body").addClass("dark-backgound");
+    $("body").removeClass();
+    $("body").addClass(dark-background);
+
+    
   });
 });

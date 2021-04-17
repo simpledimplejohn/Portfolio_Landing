@@ -1,10 +1,7 @@
-img {
-  float: left;
-  padding: 8px;
+.dark-background {
+  background-color: black;
 }
-.highlight {
-  color: red;
-}
+
 .box {
   margin: 12px;
   border: 2px solid black;
